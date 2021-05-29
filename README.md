@@ -1,10 +1,10 @@
 # loginui
 
-A new Flutter project.
+2nd Flutter assignment.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Login Page User Interface design on Flutter application development.
 
 A few resources to get you started if this is your first Flutter project:
 
